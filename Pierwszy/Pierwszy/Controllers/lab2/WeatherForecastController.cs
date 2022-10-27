@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using Pierwszy.services;
+using Pierwszy.services.lab2;
 
-namespace Pierwszy.Controllers
+namespace Pierwszy.Controllers.lab2
 {
     [ApiController]
     [Route("[controller]/[action]")]

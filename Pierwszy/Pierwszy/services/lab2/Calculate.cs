@@ -1,4 +1,4 @@
-﻿namespace Pierwszy.services
+﻿namespace Pierwszy.services.lab2
 {
     public class Calculate
     {
