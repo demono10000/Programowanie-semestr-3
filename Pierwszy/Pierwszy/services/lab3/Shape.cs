@@ -15,7 +15,7 @@
         {
             return Width * Height;
         }
-        public int GetShorterSide()
+        public virtual int GetShorterSide()
         {
             return (new List<int>() { Width, Height }.Min());
         }
